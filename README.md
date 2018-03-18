@@ -18,7 +18,7 @@
 -  熟悉J2EE技术中的Servlet、Filter与Interceptor技术
 -  熟悉JSP、FreeMarker模板渲染技术
 -  熟悉Spring、SpringMVC、SpringBoot、Mybatis框架，了解过 Struts 2、Hibernate框架
--  熟悉MySQL数据库的使用，并理解事物与索引原理
+-  熟悉MySQL数据库的使用，并理解事务与索引原理
 -  熟悉使用IntelliJ IDEA集成开发环境与Visual Studio Code编辑器
 -  会使用Maven项目管理及自动构建工具与Git版本控制工具
 ******************************
